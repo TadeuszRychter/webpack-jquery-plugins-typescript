@@ -1,0 +1,13 @@
+{
+  "name": "webpack-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.2"
+  }
+}
